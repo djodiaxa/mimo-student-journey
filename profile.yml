@@ -1,9 +1,14 @@
 project: mimo-student-journey
 owner: djodiaxa
 type: student-learning-profile
-purpose: public proof-of-seriousness for Mimo application
+purpose: public learning profile and Mimo application support repo
 focus:
   - coding journey
   - consistent learning
   - student motivation
+  - public proof of progress
 status: active
+next_milestones:
+  - add first beginner project
+  - expand learning log
+  - grow GitHub portfolio
